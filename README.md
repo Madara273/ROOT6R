@@ -24,9 +24,7 @@ If apatch_patched.img then download Apatch
 
 3. The patched vbmeta is in the vbmeta folder.
 
-4. Follow the link to view the video instruction: https://vm.tiktok.com/ZMMChLwKL/.
-
-5. QUALCOMM HS-USB QDLoader 9008 driver located in the program+driver folder
+4. QUALCOMM HS-USB QDLoader 9008 driver located in the program+driver folder
 
 Add-ons:
 #source code - nx666j kernel
